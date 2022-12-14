@@ -7,6 +7,6 @@ Application in python to create interface Quotation for reservation of room, day
 `tkcalendar 1.6.1`
 
 ### Screenshots
-![alt text](https://github.com/Nor-Mand/hotelReservation/blob/master/images/picture_1.png)
-![alt text](https://github.com/Nor-Mand/hotelReservation/blob/master/images/picture_2.png)
-![alt text](https://github.com/Nor-Mand/hotelReservation/blob/master/images/picture_3.png)
+![alt text](https://github.com/Nor-Mand/hotelReservation/blob/main/images/picture_1.png)
+![alt text](https://github.com/Nor-Mand/hotelReservation/blob/main/images/picture_2.png)
+![alt text](https://github.com/Nor-Mand/hotelReservation/blob/main/images/picture_3.png)
