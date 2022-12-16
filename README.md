@@ -1,4 +1,4 @@
-# HOTEL RESERVATION (Quote Generator)
+# RESERVATION HOTEL (Quote Generator)
 Application in python to create interface Quotation for reservation of room, days, week and extras.
 
 ## GUI-based using tkinter
